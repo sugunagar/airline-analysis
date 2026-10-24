@@ -9,7 +9,7 @@ This project works through an airline dataset end to end: loading and cleaning t
 ## Files
 
 - `Airline_data.csv` — the dataset used for the analysis
-- `airline_analysis.ipynb` — the analysis notebook (renamed from `IBD_project (1).ipynb`)
+- `airline_analysis.ipynb` — the analysis notebook 
 - `requirements.txt` — Python dependencies
 
 ## Tech Stack
@@ -33,4 +33,4 @@ This project works through an airline dataset end to end: loading and cleaning t
 ## Author
 
 Suguna Garmidi — Data Analyst
-Portfolio: https://sugunagar.github.io
+
