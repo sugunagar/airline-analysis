@@ -2,8 +2,9 @@
 
 Exploratory data analysis of airline data using Python in a Jupyter Notebook — cleaning the data, exploring it, and pulling out patterns.
 
-#Live Demo 
-https://nbviewer.org/github/sugunagar/airline-analysis/blob/main/airline_analysis.ipynb
+## 📌 Live Demo
+
+👉 https://sugunagar.github.io/airline-analysis/
 
 ## About the Project
 
